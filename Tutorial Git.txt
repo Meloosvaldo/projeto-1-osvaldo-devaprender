@@ -27,3 +27,10 @@
 
  git merge master/staging (atualiza o arquivo na outra branch) depois da um git push e pronto.
 
+ git pull (atualizar e ver se está na versão/código mais atual)
+
+ Um passo a passo (git pull da branch principal/gerar nova branch a partir da branch principal/trabalhar 
+ e adicionar novas funcionalidades da nova branch que criou/ finalizar o trabalho na branch temporária/
+ git checkout na branch principal/git pull/git merge-mergiar(unir) o código da branch temporária com a branch principal
+ (depois testar)/git push da branch principal
+
