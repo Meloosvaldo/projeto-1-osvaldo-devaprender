@@ -1,1 +1,2 @@
-Ol· mundo! Eu sou uma nova linha
+Ol√° mundo! Eu sou uma nova linha
+Aprendendo a utilizar o Git
