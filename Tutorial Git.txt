@@ -33,4 +33,6 @@
  e adicionar novas funcionalidades da nova branch que criou/ finalizar o trabalho na branch temporária/
  git checkout na branch principal/git pull/git merge-mergiar(unir) o código da branch temporária com a branch principal
  (depois testar)/git push da branch principal
+ 
+ touch .gitignore (ignora um arquivo/pasta/tornando-o secreto/salve o arquivo no word pad e aperte ctrl + s)
 
