@@ -1,0 +1,29 @@
+ git init (iniciar)
+
+ git status (ver os status/arquivos)
+
+ git add "nome do arquivo" ou git add . que adiciona todos os arquivos de uma vez
+
+ git commit -m "Informações sobre o que foi feito no commit"
+
+ git push (enviar o arquivo local para o remoto)
+
+ git remote add origin "por exemplo https://github.com/Meloosvaldo/projeto-1-osvaldo-devaprender.git" 
+ local onde o arquivo será enviado no GitHub (repositório online)
+
+ git push (enviar o arquivo local para o remoto)
+
+ git push --set-upstream origin master  (origem do branch)
+
+ ctrl + l = limpar tela do Git
+
+ git reflog (ver as versões já feitas)
+ 
+ git resert --hard + o código da versão (volta ou muda para a outra versão que desejar)
+
+ git branch (um ponteiro, por exemplo o master que é o principal). Git branch master/staging etc.
+ 
+ git checkout master/staging (muda de ponteiro)
+
+ git merge master/staging (atualiza o arquivo na outra branch) depois da um git push e pronto.
+
